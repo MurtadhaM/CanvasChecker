@@ -1,0 +1,8 @@
+" } } This POST request to the /assignments API endpoint would create a new assignment in the specified course (course_id). The request body 
+includes the following parameters: - name : The name of the assignment - points_possible: The maximum points possible for the assignment - due_at: 
+The due date and time for the assignment - submission_types: The type of submissions allowed (online upload in this case) - instructor_announcement: 
+Makes an announcement to students - published: Whether the assignment is published and visible to students - description: The instructions and 
+details about the assignment If successful, the Canvas API would return a 201 Created status code along with a response body containing details 
+about the newly created assignment. Other useful Canvas API endpoints for managing assignments include: - GET /courses/:course_id/assignments/:id - 
+Get details for a single assignment - PATCH /courses/:course_id/assignments/:id - Update an existing assignment - DELETE 
+/courses/:course_id/assignments/:id - Delete an assignment Hope this helps! Let me know if you have any other questions.
