@@ -1,0 +1,6 @@
+C++ is a programming language that is used to create programs that run on a computer. It is a general-purpose, object-oriented programming language. 
+It was developed by Bjarne Stroustrup as an extension of C. It is now a standard language of the C++ family of languages. C++ is a superset of C, 
+and is a general-purpose programming language. It is a general-purpose, multi-paradigm, compiled programming language encompassing strong typing, 
+lexical scoping, imperative, object-oriented, generic, and functional programming disciplines. The language has a static type system and automatic 
+memory management, and has a virtual machine implementation. It has a large and comprehensive standard library. C++ advantages over other languages 
+are that it is a compiled language and that it is a highly portable language.

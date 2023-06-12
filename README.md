@@ -1,6 +1,23 @@
 # Canvas API (To utilize TurnItOn Itegrity Check)
 
 
+## Quick Links
+---
+<a href="http://findasnake.com">![](https://img.shields.io/badge/Quick-Links-red)</a>
+
+- [x] [copyLeaks](https://copyleaks.com/ai-content-detector?fbclid=IwAR2Zip7fBI4ZRrw0dyWQvaMrN846Tvzx713eNslnUVkSoWbjgCCv8_FIqpw)
+
+- [x] [AIDetector](https://contentatscale.ai/ai-content-detector/)
+
+- [x] [ CheckForAi](https://checkforai.com/beta/)
+
+- [x] [CrossPlag](https://crossplag.com/ai-content-detector/)
+
+- [x] [AI-Writing-Check](https://aiwritingcheck.org/)
+
+- [x] [contentatscale.ai](https://contentatscale.ai/ai-content-detector/)
+
+
 
 ## Prerequisites
 ---
